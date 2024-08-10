@@ -21,6 +21,9 @@ This project involves analyzing and modeling data from a flower classification d
 • Training Performance: The model's performance is tracked over multiple epochs, and the results are visualized.
 
 
+![Screenshot 2024-08-11 005004](https://github.com/user-attachments/assets/cb1b6f02-04ae-4a63-a736-6c4c3e425591)
+![Screenshot 2024-08-11 005023](https://github.com/user-attachments/assets/8fb92916-7a3e-461a-96eb-666ac5c8219b)
+
 
 This project demonstrates a complete machine learning workflow, including data preparation, feature engineering, model training, and evaluation, using both classical machine learning and neural network approaches.
 
